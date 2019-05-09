@@ -10,17 +10,17 @@ public class Maths {
 
     //////    Multiply accepts integers
     public int multiplyNumbers(int first,int second){
-        return first + second;
+        return first * second;
     }
 
 //////    Divide accepts integers
     public int divideNumbers(int first,int second){
-        return first + second;
+        return first / second;
     }
 
     //////    Subtract accepts integers
     public int subtractNumbers(int first,int second){
-        return first + second;
+        return first - second;
     }
 
 }
